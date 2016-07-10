@@ -1,10 +1,10 @@
 # Tabular Data Gym, Episode 1
 
 Here we deal with 10 most voted (annoying) questions about pandas on
-StackOverflow. Try to solve them.  If you want you can try to solve
-them using `R` packages `data.table`, `dplyr` or just `data.frame`.
-If you do it, please add a file with filename, for example,
-`data.table`. You can also try to solve them using `pandasql`
+StackOverflow. Try to solve them.  Then, if you want, you can try to solve
+them using `R` packages like `data.table`, `dplyr` or just `data.frame`.
+If you do it, please add a file, for example,
+`data.table_pandas_10.ipynb`. You can also try to solve them using `pandasql`
 package.`
 
 ### Data Gym Rules:
