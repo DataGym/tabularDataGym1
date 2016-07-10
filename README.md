@@ -17,11 +17,11 @@ package.`
    copies).
 4. Start from directory `name/Iteration1` and try solve the problem(s)
    (recommended time for it is 25 minutes).
-5. The take a brake and think what you did well and what you could
+5. The take a break and think what you have done well and what you could
    improve.
 6. Repeat steps 4. 5. in directories `name/Iteration2` and
-   `name/Iteration3`. If you wish, you can create more Iterations
-   directories and repeat as many times as you want.
+   `name/Iteration3`. If you wish to repeat more time, you can create
+   more Iterations directories.
 7. Push changes to the fork and do Pull Request.
 8. We will add your name to Hall of Fame List then.
 
